@@ -1,5 +1,10 @@
 # Mindful Presence app
-Native App Store Daily Alignment app - practice presence by connecting your goals with everyday actions
+Native App Store Daily Alignment app - practice presence by connecting your goals with everyday actions  
+
+
+**Mindful Presence is designed to help you cultivate a deeper connection with yourself through daily alignment practices. By setting clear intentions and acknowledging your emotions, you develop greater self-awareness and presence in your daily life.**
+
+Regular practice helps you stay grounded, make conscious choices, and live more intentionally. Our approach combines ancient wisdom with modern psychology to support your journey toward mindfulness and personal growth.
 
 # How to use
 
