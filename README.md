@@ -10,28 +10,29 @@ Daily alignments connect your life goals with everyday actions through two compo
 
 # App features
 
-AI Intention Generator  
+
+⚡️AI Intention Generator  
 Get personalized intention ideas based on your Personal Mission. Provide feedback to refine suggestions.
 
-Daily Checklist  
+📝Daily Checklist  
 Add tasks to your alignment and check them off throughout the day.
 
-Reflections  
+📘Reflections  
 Rate your day and add notes to capture insights about how well you lived your intention.
 
-Streaks & Tier Progress  
+📈Streaks & Tier Progress  
 Track your consistency with streaks and progress through tiers from Bronze to Platinum.
 
-Achievements  
+🏆Achievements  
 Unlock badges at milestones (5, 10, 20, 40, 80, 160, 365 days) and select a featured alignment.
 
-History & Bookmarks  
+📖History & Bookmarks  
 Review past alignments, search by date, and bookmark meaningful entries.
 
-Notifications  
+🔔Notifications  
 Receive reminders throughout the day to reconnect with your intention.
 
-Personal Mission  
+👑Personal Mission  
 Define your broader life purpose through guided questions. Your mission shapes your daily intentions.
 
 # App Store Screenshots
