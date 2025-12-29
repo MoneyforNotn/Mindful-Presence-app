@@ -1,10 +1,17 @@
-# Mindful Presence app
-Native App Store Daily Alignment app - practice presence by connecting your goals with everyday actions  
+# Privacy Policy version 1.0 for the Mindful Presence iOS app
+
+*Mindful Presence* iOS application collects and utilizes information solely for essential App functionality. App collects user's Email address, Phone number, Photos or videos (if uploaded), User ID, Product interaction data, and Crash data. This information is used exclusively to authenticate users, enable features, prevent fraud, implement security measures, ensure server uptime, minimize app crashes, improve scalability and performance, and provide customer support.  
+The App integrates with OpenAI for AI-generated alignment ideas, and data sent to OpenAI for this purpose is subject to their privacy policies; no other personal data is shared with any other third parties.
+Beyond this, the App does not access the internet. We employ appropriate security measures to protect your data. For questions, please contact us at mindfulpresencehelp@gmail.com
+***
+***
+# Mindful Presence iOS app
+### Daily Alignment app - practice presence by connecting your goals with everyday actions  
 
 
 **Mindful Presence is designed to help you cultivate a deeper connection with yourself through daily alignment practices. By setting clear intentions and acknowledging your emotions, you develop greater self-awareness and presence in your daily life.**
 
-Regular practice helps you stay grounded, make conscious choices, and live more intentionally. Our approach combines ancient wisdom with modern psychology to support your journey toward mindfulness and personal growth.
+**Regular practice helps you stay grounded, make conscious choices, and live more intentionally. Our approach combines ancient wisdom with modern psychology to support your journey toward mindfulness and personal growth.**
 
 # How to use
 
