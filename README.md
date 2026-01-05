@@ -1,8 +1,7 @@
 # Privacy Policy version 1.0 for the Mindful Presence iOS app
 
-*Mindful Presence* iOS application collects and utilizes information solely for essential App functionality. App collects user's Email address, Phone number, Photos or videos (if uploaded), User ID, Product interaction data, and Crash data. This information is used exclusively to authenticate users, enable features, prevent fraud, implement security measures, ensure server uptime, minimize app crashes, improve scalability and performance, and provide customer support.  
-The App integrates with OpenAI for AI-generated alignment ideas, and data sent to OpenAI for this purpose is subject to their privacy policies; no other personal data is shared with any other third parties.
-Beyond this, the App does not access the internet. We employ appropriate security measures to protect your data. For questions, please contact us at mindfulpresencehelp@gmail.com
+*Mindful Presence* iOS application collects and utilizes information solely for essential App functionality. App collects user's Email address, Phone number, Photos or videos (if uploaded), User ID, Product interaction data, and Crash data. This information is used exclusively to authenticate users, enable features, prevent fraud, implement security measures, ensure server uptime, minimize app crashes, improve scalability and performance, and provide customer support. Alhough the App does not collect Names, the App's in-build features can use Names to track users across apps and websites owned by other companies.  
+The App integrates with OpenAI for AI-generated alignment ideas, and data sent to OpenAI for this purpose is subject to their privacy policies; no other personal data is shared with any other third parties. Beyond this, the App does not access the internet. We employ appropriate security measures to protect your data. For questions, please contact us at mindfulpresencehelp@gmail.com
 ***
 ***
 # Mindful Presence iOS app
